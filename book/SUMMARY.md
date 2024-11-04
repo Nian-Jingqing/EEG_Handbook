@@ -7,6 +7,10 @@
 * [启蒙阶段](chapter1\_history/qi-meng-jie-duan.md)
 * [初步发展阶段](chapter1\_history/chu-bu-fa-zhan-jie-duan.md)
 
+## 脑电技术研究的选取 <a href="#chapter13_research" id="chapter13_research"></a>
+
+* [文献查阅](chapter13\_research/literature\_search.md)
+
 ## 脑电技术中常用指标与运用实例 <a href="#chapter2_metrics" id="chapter2_metrics"></a>
 
 * [脑电实验技术中常用的时域指标（ERP成分）](chapter2\_metrics/nao-dian-shi-yan-ji-shu-zhong-chang-yong-de-shi-yu-zhi-biao-erp-cheng-fen.md)
@@ -62,7 +66,3 @@
 
 * [rTMS](chapter12\_sync/rtms.md)
 * [tDCS/tACS设备](chapter12\_sync/tdcs.md)
-
-## 脑电技术研究的选取 <a href="#chapter13_research" id="chapter13_research"></a>
-
-* [文献查阅](chapter13\_research/literature\_search.md)
