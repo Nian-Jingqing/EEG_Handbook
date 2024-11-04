@@ -29,7 +29,7 @@
 ## 脑电技术研究的实验程序编制 <a href="#chapter5_procedure" id="chapter5_procedure"></a>
 
 * [设备环境参数](chapter5\_procedure/basic\_information.md)
-* [并口传输Marker/Trigger的实现](chapter5\_procedure/parallel\_port.md)
+* [传输Marker/Trigger的实现](chapter5\_procedure/parallel\_port.md)
 * [串口传输Marker/Trigger的实现](chapter5\_procedure/serial\_port.md)
 * [网线传输Marker/Trigger的实现](chapter5\_procedure/network.md)
 
